@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I am Sapna 👋
 
+I am a newbie in the web development field and I love to do competitive programming. I am also into open-source contribution.In my free time, I love to read books, travel, write answers on Quora, and spend time with my family.
+
+- 🔭 I’m  pursuing Btech in Electronics and Instrumentation from the College of Engineering Trivandrum
+- 🌱 I’m currently learning tech skills like Web Development.
 <!--
-**Sapna2001/Sapna2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/sapna2001/) 
+- 💻Checkout my portfolio here:https://sapna2001.github.io/Portfolio/
+- 📄 Resume:https://sapna2001.github.io/Portfolio/assets/Sapna%20Resume.pdf
+
+
+
+
