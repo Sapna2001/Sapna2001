@@ -12,8 +12,8 @@ I am a newbie in the web development field and I love to do competitive programm
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/sapna2001/) 
-- 💻Checkout my portfolio here:https://sapna2001.github.io/Portfolio/
-- 📄 Resume:https://sapna2001.github.io/Portfolio/assets/Sapna%20Resume.pdf
+- 💻Checkout my [portfolio](https://sapna2001.github.io/Portfolio/)
+- 📄 [Resume](https://sapna2001.github.io/Portfolio/assets/Sapna%20Resume.pdf)
 
 
 
