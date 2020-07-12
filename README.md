@@ -13,7 +13,7 @@ I am a newbie in the web development field and I love to do competitive programm
 -->
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/sapna2001/) 
 - 💻Checkout my [portfolio](https://sapna2001.github.io/Portfolio/)
-- 📄 [Resume](https://drive.google.com/file/d/1PtI35N9Ge7HDHQFFQ50tJ6o8mRng0_dx/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1YExrq_EGQgDAevD5f2uRKWSa4pzi4pnr/view?usp=sharing)
 
 
 
