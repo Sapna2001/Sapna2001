@@ -15,7 +15,7 @@ I am a newbie in the web development field and I love to do competitive programm
 - 💻Checkout my [portfolio](https://sapna2001.github.io/Portfolio/)
 - 📄 [Resume](https://drive.google.com/file/d/1YExrq_EGQgDAevD5f2uRKWSa4pzi4pnr/view?usp=sharing) 
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
+![s](https://github-readme-stats.vercel.app/api?username=Sapna2001&show_icons=true)
 
 
 
