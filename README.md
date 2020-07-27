@@ -29,8 +29,7 @@ I am a newbie in the web development field and I love to do competitive programm
 - 💻Checkout my [portfolio](https://sapna2001.github.io/Portfolio/)
 - 📄 [Resume](https://drive.google.com/file/d/1YExrq_EGQgDAevD5f2uRKWSa4pzi4pnr/view?usp=sharing) 
 
-![](https://github-readme-stats.vercel.app/api?username=Sapna2001&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api?username=Sapna2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Sapna2001&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=151515">
 
 [Detailed Stats](https://gitstats.me/Sapna2001)
 
