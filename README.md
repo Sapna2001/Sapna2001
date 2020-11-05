@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapna</h1>
 <h3 align="center">LIVING LIFE TO THE FULLEST</h3>
 
-<img src="https://dribbble.com/shots/9890798-The-Coder"/>
+<img src="https://user-images.githubusercontent.com/56690856/98228904-38d93a00-1f7f-11eb-8635-1293f08aa344.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna2001&label=Profile%20views&color=0e75b6&style=flat" alt="sapna2001" /> </p>
 
