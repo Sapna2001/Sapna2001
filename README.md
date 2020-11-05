@@ -24,7 +24,6 @@
 <a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sapna2001/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hari-sapna-nair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hari-sapna-nair" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hari sapna nair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hari sapna nair" height="30" width="40" /></a>
 <a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sapna2001" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sapna2001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harisapnanair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="harisapnanair" height="30" width="40" /></a>
