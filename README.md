@@ -19,16 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sapna2001/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hari-sapna-nair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hari-sapna-nair" height="30" width="40" /></a>
-<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sapna2001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sapna2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harisapnanair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="harisapnanair" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sapna2001" height="30" width="40" /></a>
+<a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://api.iconify.design/logos:twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="sapna2001/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hari-sapna-nair" target="blank"><img align="center" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="hari-sapna-nair" height="30" width="40" /></a>
+<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://api.iconify.design/ant-design:medium-square-filled.svg" alt="@sapna2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sapna2001" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sapna2001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sapna2001" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Sapna-191" target="blank"><img align="center" src="https://api.iconify.design/logos:quora.svg" alt="sapna2001" height="30" width="40" /></a>
 </p>
   
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +32,7 @@
   <a href="https://developer.android.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" background-color:"red" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/cib:coreui-c.svg" alt="c" width="40" height="40"/> </a>  
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://api.iconify.design/noto:letter-c.svg" alt="c" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://api.iconify.design/logos:css-3.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
@@ -46,7 +42,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://api.iconify.design/logos:java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons:file-type-matlab.svg" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://api.iconify.design/logos:mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://api.iconify.design/logos:nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="python" width="40" height="40"/> </a>
