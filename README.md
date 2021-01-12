@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://api.iconify.design/logos:twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="sapna2001/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hari-sapna-nair" target="blank"><img align="center" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="hari-sapna-nair" height="30" width="40" /></a>
-<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="@sapna2001" height="30" width="40" /></a>
+<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="@sapna2001" height="30" width="80" /></a>
 <a href="https://www.leetcode.com/sapna2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="sapna2001" height="40" width="50" /></a>
 <a href="https://www.quora.com/profile/Sapna-191" target="blank"><img align="center" src="https://api.iconify.design/logos:quora.svg" alt="sapna2001" height="50" width="80" /></a>
 </p>
