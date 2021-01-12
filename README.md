@@ -22,8 +22,8 @@
 <a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://api.iconify.design/logos:twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="sapna2001/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hari-sapna-nair" target="blank"><img align="center" src="https://api.iconify.design/logos:stackoverflow-icon.svg" alt="hari-sapna-nair" height="30" width="40" /></a>
-<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://api.iconify.design/ant-design:medium-square-filled.svg" alt="@sapna2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sapna2001" height="30" width="40" /></a>
+<a href="https://medium.com/@sapna2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/medium/medium-icon.svg" alt="@sapna2001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sapna2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="sapna2001" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Sapna-191" target="blank"><img align="center" src="https://api.iconify.design/logos:quora.svg" alt="sapna2001" height="30" width="40" /></a>
 </p>
   
