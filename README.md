@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [https://sapna2001.github.io/Portfolio/assets/Resume.pdf](https://sapna2001.github.io/Portfolio/assets/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
+<div style="color:white">
 <p align="left">
 <a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sapna2001/" height="30" width="40" /></a>
@@ -30,7 +31,8 @@
 <a href="https://www.hackerearth.com/@sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sapna2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sapna2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sapna2001" height="30" width="40" /></a>
 </p>
-
+</div>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="40" height="40"/></a>
