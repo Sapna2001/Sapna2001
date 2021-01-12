@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://sapna2001.github.io/Portfolio/assets/Resume.pdf](https://sapna2001.github.io/Portfolio/assets/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<div style="color:white">
+<div style="background-color:white; height:200px">
 <p align="left">
 <a href="https://twitter.com/sapna_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sapna_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sapna2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sapna2001/" height="30" width="40" /></a>
