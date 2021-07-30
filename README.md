@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://sapna2001.github.io/Portfolio/**
 
-- 📄 Know about my experiences [https://sapna2001.github.io/Portfolio/assets/Resume.pdf](https://sapna2001.github.io/Portfolio/assets/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hJcOZJQREg4gTylpJC_JpGZQr0ee6Pls/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
