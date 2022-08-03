@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@Sapna2001](https://medium.com/@Sapna2001)
 
-- 📫 How to reach me **https://sapna2001.github.io/Portfolio/**
+- 📫 How to reach me **https://sapna2001.netlify.app/**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hJcOZJQREg4gTylpJC_JpGZQr0ee6Pls/view?usp=sharing)
 
